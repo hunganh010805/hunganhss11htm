@@ -1,0 +1,49 @@
+@import url(<link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Satisfy&display=swap" rel="stylesheet");
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header {
+    height: 60px;
+    width: 100%;
+    background-color: rgb(171, 180, 180);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 24px;
+}
+.header-list-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-family: Arial, sans-serif;
+}
+.header-item{
+    color: black;
+    list-style: none;
+    font-family: 'Satisfy', cursive;
+}
+.header-item1{
+    color: black;
+    list-style: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.header-item2 {
+    list-style: none;
+    color: rgb(245, 245, 245);
+}
+.header-icon {
+    list-style: none;
+}
+.header-avatar {
+    width: 15%;
+}
+
+
+
+
+
+
